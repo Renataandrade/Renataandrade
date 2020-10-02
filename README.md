@@ -1,4 +1,4 @@
-#### ![Header](https://github.com/Renataandrade/Renataandrade/blob/master/assets/readme_header.png)
+#### ![Header](https://github.com/Renataandrade/Renataandrade/blob/master/assets/header.png)
 
 ## Hi, there!
 
