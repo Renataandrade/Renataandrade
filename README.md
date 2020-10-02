@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Renataandrade/Renataandrade/assets/readme_header.gif "Header")](https://some-url.dev/)
+#### ![Header](https://github.com/Renataandrade/Renataandrade/blob/master/assets/readme_header.gif)
 
-## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, there!
 
   My name is Renata Andrade. I'm a Front-End developer.
   
