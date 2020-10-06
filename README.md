@@ -1,5 +1,3 @@
-#### ![Header](https://github.com/Renataandrade/Renataandrade/blob/master/assets/header.png)
-
 ## Hi, there!
 
   My name is Renata. I'm a Front-End developer.
