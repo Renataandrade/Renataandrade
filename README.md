@@ -1,9 +1,7 @@
 ## Hi, there!
 
-  My name is Renata. I'm a Front-End developer.
+  I'm a Front-End developer.
   
-  Soon, I'll move to Curitiba/PR.
-  So, i'm looking for remote or local jobs in the city.
 
 ### Technologies & Tools
 
