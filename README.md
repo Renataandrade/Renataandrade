@@ -1,6 +1,6 @@
 ## Hi, there!
 
-  I'm a Front-End developer.
+  I'm a Frontend developer.
   
 
 ### Technologies & Tools
