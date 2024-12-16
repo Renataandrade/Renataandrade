@@ -10,7 +10,7 @@
 
 ### Where you can find me
 
-[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=&logoColor=white&color=2bbc8a)][1]
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=&logoColor=white&color=682aba)][1]
 
 <!-- Links to social media accounts -->
 [1]: https://www.linkedin.com/in/renata-andrade-525a76150/
